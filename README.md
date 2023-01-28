@@ -1,3 +1,3 @@
-# SURFACE-CRACK-WIDTH-CALCULATION-FROM-SEGMENTED-IMAGES-USING-TWO-POINT-DISTANCE-FORMULA
+# Final Code
 
 You can run the program thru detectCrack.py !
